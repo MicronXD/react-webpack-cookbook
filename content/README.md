@@ -4,7 +4,7 @@
 
 The purpose of this cookbook is to guide you into the world of React and Webpack. Both are powerful technologies and when used together, frontend development becomes a joy.
 
-The cookbook should have something to offer for all skill levels. If you are interested in just React, skip the Webpack part and vice versa. A more tutorial oriented approach is available in the form of [SurviveJS - Webpack and React](http://survivejs.com/) book.
+The cookbook should have something to offer all skill levels. If you are interested in just React, skip the Webpack part or vice versa. A more tutorial oriented approach is available in the form of [SurviveJS - Webpack and React](http://survivejs.com/) book.
 
 ## React
 
@@ -12,7 +12,7 @@ React is a library that greatly simplifies component development. Once you under
 
 [The official tutorial](http://facebook.github.io/react/docs/tutorial.html) is a good starting point if you just want a quick look at the technology.
 
-Perhaps the most intriguing thing about React is that it keeps on challenging traditional web development. It allows us to rethink concepts such as separation of concern. It will also influence on mobile development in the form of [React Native](http://facebook.github.io/react-native). React Native allow native level performance while making it possible to develop apps in a tight realtime preview loop using JavaScript.
+Perhaps the most intriguing thing about React is that it keeps on challenging traditional web development. It allows us to rethink concepts such as separation of concern. It will also influence mobile development with [React Native](http://facebook.github.io/react-native). React Native allows native level performance while making it possible to develop apps in a tight realtime preview loop using JavaScript.
 
 ## Webpack
 
